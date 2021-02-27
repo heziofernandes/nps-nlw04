@@ -1,9 +1,9 @@
 # NPS
 <nlw /> edition # 04
 
-##NPS stands for Net Promoter Score which in a direct translation means “Average referral score”.
-##The purpose of this analysis is to find out if there are more people indicating or speaking badly about your product and service. 
-##A brand with negative NPS has a great chance of having very low growth or having to invest a lot to grow.
+## NPS stands for Net Promoter Score which in a direct translation means “Average referral score”.
+## The purpose of this analysis is to find out if there are more people indicating or speaking badly about your product and service. 
+## A brand with negative NPS has a great chance of having very low growth or having to invest a lot to grow.
 
 # Api-nodejs-backend 😎 🥁
 Concepts of this project, API, NodeJS, TypeScript, integration with databases, migrations, isolation of abstraction layers, models, controllers, Repository, Routes, Automated Tests, sending e-mail using customized templates with information from the database.
@@ -41,14 +41,13 @@ Faker library was used to mock the data used in the execution of the tests, this
 Install the dependencies:<br/>
 Make sure [Node.js](https://nodejs.org/) is installed <br/>
 Navigate to the root of the repo <br/>
-#### npm
+
+#### yarn
 ```bash
 yarn install
 yarn dev
-```
- 
+``` 
 Run the tests:
-
 #### Supertest
 ```bash
 yarn test
@@ -62,7 +61,6 @@ This project is integrated with a continuous integration tool [Circle Ci](https:
 ## Code Analise ✅
 There is also integration with a code analysis tool, [Code Climate](https://codeclimate.com/) where it is possible to measure the level of project maintenance and other standards of good practice. <br/> <br/>
 ![Code Climate](https://img.shields.io/codeclimate/maintainability-percentage/heziofernandes/nps-nlw04?style=plastic)
-
 
 ## Application routes
 ```
