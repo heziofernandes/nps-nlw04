@@ -1,11 +1,11 @@
 # NPS
-<nlw /> edition # 04
+## <nlw /> edition # 04
 
-### NPS stands for Net Promoter Score which in a direct translation means “Average referral score”.
-### The purpose of this analysis is to find out if there are more people indicating or speaking badly about your product and service. 
-### A brand with negative NPS has a great chance of having very low growth or having to invest a lot to grow.
+#### NPS stands for Net Promoter Score which in a direct translation means “Average referral score”.
+#### The purpose of this analysis is to find out if there are more people indicating or speaking badly about your product and service. 
+#### A brand with negative NPS has a great chance of having very low growth or having to invest a lot to grow.
 
-# Api-nodejs-backend 😎 🥁
+## Api-nodejs-backend 😎 🥁
 Concepts of this project, API, NodeJS, TypeScript, integration with databases, migrations, isolation of abstraction layers, models, controllers, Repository, Routes, Automated Tests, sending e-mail using customized templates with information from the database.
 
 #### Stacks 🚀
@@ -36,7 +36,7 @@ Faker library was used to mock the data used in the execution of the tests, this
 *should not be able to create a user without email
 *should not be able to create an unnamed user attribute
 
-## setup
+### setup
 
 Install the dependencies:<br/>
 Make sure [Node.js](https://nodejs.org/) is installed <br/>
