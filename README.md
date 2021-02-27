@@ -1,9 +1,9 @@
 # NPS
 <nlw /> edition # 04
 
-## NPS stands for Net Promoter Score which in a direct translation means “Average referral score”.
-## The purpose of this analysis is to find out if there are more people indicating or speaking badly about your product and service. 
-## A brand with negative NPS has a great chance of having very low growth or having to invest a lot to grow.
+### NPS stands for Net Promoter Score which in a direct translation means “Average referral score”.
+### The purpose of this analysis is to find out if there are more people indicating or speaking badly about your product and service. 
+### A brand with negative NPS has a great chance of having very low growth or having to invest a lot to grow.
 
 # Api-nodejs-backend 😎 🥁
 Concepts of this project, API, NodeJS, TypeScript, integration with databases, migrations, isolation of abstraction layers, models, controllers, Repository, Routes, Automated Tests, sending e-mail using customized templates with information from the database.
@@ -16,7 +16,7 @@ sqlite3
 express
 ```
 
-## Testing specification 🤖
+### Testing specification 🤖
 ### Testing Framework used
 * [Jest](https://jestjs.io/)
 * [SuperTest](https://github.com/visionmedia/supertest)
