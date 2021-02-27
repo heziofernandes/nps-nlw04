@@ -24,16 +24,16 @@ Faker library was used to mock the data used in the execution of the tests, this
 
 ### For this project I have the following tests: 🤖 ✅
 
-*should not be able to send email without survey registered
-*should not be able to send mail with empty survey_id
-*should not be able to send mail without attribute email
-*should be able to create a new survey
-*should be able to get all surveys
-*should not be able to create a new survey without title
-*should not be able to create a new survey without description
-*should not be able to create a user with already email exists
-*should not be able to create a user without email
-*should not be able to create an unnamed user attribute
+*should not be able to send email without survey registered<br/>
+*should not be able to send mail with empty survey_id <br/>
+*should not be able to send mail without attribute email <br/>
+*should be able to create a new survey <br/>
+*should be able to get all surveys <br/>
+*should not be able to create a new survey without title <br/>
+*should not be able to create a new survey without description <br/>
+*should not be able to create a user with already email exists <br/>
+*should not be able to create a user without email <br/> 
+*should not be able to create an unnamed user attribute <br/>
 
 ### setup
 
