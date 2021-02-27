@@ -15,12 +15,11 @@ TypeScript
 sqlite3
 express
 ```
-
 ### Testing specification 🤖
 ### Testing Framework used
 * [Jest](https://jestjs.io/)
 * [SuperTest](https://github.com/visionmedia/supertest)
-* [The Fake.js](https://github.com/marak/Faker.js/)
+* [The Fake.js](https://github.com/marak/Faker.js/) <br/>
 Faker library was used to mock the data used in the execution of the tests, this allows to perform tests with different types of information in the input data.
 
 ### For this project I have the following tests: 🤖 ✅
